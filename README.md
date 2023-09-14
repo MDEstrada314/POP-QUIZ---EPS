@@ -1,0 +1,11 @@
+# POP-QUIZ---EPS
+Modelo vista controlador 
+///git ignore para el node-Modules///
+
+
+URLS PARA LOS EJRCICIOS
+
+1.   http://localhost:8000/EPS/fechas.
+2.   http://localhost:8000/EPS/usuarios
+
+
