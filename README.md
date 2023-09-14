@@ -1,5 +1,7 @@
 # POP-QUIZ---EPS
 Modelo vista controlador 
+fue la forma que use para hacer el jercicio
+
 ///git ignore para el node-Modules///
 
 
